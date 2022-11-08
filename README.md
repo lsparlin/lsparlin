@@ -2,8 +2,6 @@
 
 I'm a software developer and consultant. I enjoy working with great people and contributing to technology that improves peoples' lives. I'll be brewing coffee in my Chemex most mornings. In the winter, I hope to be snowboarding!
 
-<a rel="me" href="https://ruby.social/@lsparlin">@lsparlin@ruby.social</a>
-
 -----
 
 💻  Senior Software Consultant [@testdouble](https://github.com/testdouble)
