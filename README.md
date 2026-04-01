@@ -15,9 +15,6 @@ I'm a software developer and consultant. I enjoy working with great people and c
 
 -----
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lsparlin&hide=vim%20script&layout=compact&custom_title=Languages%20Used%20On%20Github)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <!--
 **lsparlin/lsparlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
