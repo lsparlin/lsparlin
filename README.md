@@ -10,7 +10,7 @@ I'm a software developer and consultant. I enjoy working with great people and c
 
 👨‍💻 He/Him
 
-![ruby](https://img.shields.io/badge/-ruby-red?style=for-the-badge&logo=ruby) ![rails](https://img.shields.io/badge/-rails-red?style=for-the-badge&logo=ruby%20on%20rails) ![javascript](https://img.shields.io/badge/-javascript-blue?style=for-the-badge&logo=javascript) ![React](https://img.shields.io/badge/-React-white?style=for-the-badge&logo=react) ![stimulus](https://img.shields.io/badge/-stimulus-black?style=for-the-badge&logo=stimulus) ![git](https://img.shields.io/badge/-git-ddd?style=for-the-badge&logo=git) 
+![ruby](https://img.shields.io/badge/-ruby-red?style=for-the-badge&logo=ruby) ![rails](https://img.shields.io/badge/-rails-red?style=for-the-badge&logo=ruby%20on%20rails) ![javascript](https://img.shields.io/badge/-javascript-blue?style=for-the-badge&logo=javascript) ![React](https://img.shields.io/badge/-React-white?style=for-the-badge&logo=react)
 
 
 -----
